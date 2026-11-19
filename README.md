@@ -109,22 +109,6 @@ executed. The graph implementation has a focused unit-test file,
 - *Grokking Data Structures* — [user-provided reference](https://studylib.net/doc/28053531/grokking-data-structures)
 - *Grokking Algorithms* — [user-provided reference](https://github.com/yokharian/MyBooks/blob/master/Grokking%20Algorithms.pdf)
 
-## LinkedIn post draft
-
-I have been studying data structures and algorithms and building small Python
-implementations to make the concepts concrete.
-
-This repository includes arrays, linked lists, stacks, queues, hash tables,
-binary search trees, heaps, priority queues, sorting algorithms, and graph
-traversals such as BFS and DFS. Working through these examples helped me compare
-the trade-offs between data structures and reason about algorithm complexity.
-
-This is an ongoing learning project, and I plan to continue adding and testing
-more algorithms.
-
-`[Add your repository link here]`
-
-#DataStructures #Algorithms #Python #ComputerScience #ContinuousLearning
 
 ## Run the graph tests
 
